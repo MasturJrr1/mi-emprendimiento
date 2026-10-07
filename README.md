@@ -1,6 +1,6 @@
-# [Nombre del emprendimiento] — Sitio web
+# Altima.str — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
+Reventa de gorras New Era originales: fitted 59FIFTY, snapbacks, ediciones especiales con *side patch*, bordados y colabs, para jóvenes apasionados por el streetwear.
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
@@ -35,4 +35,4 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Uso de IA
 
-- **[Herramienta]:** para qué la usé y qué ajusté yo.
+- **Claude Code:** lo usé para revisar la estructura del repositorio y generar un primer borrador de los documentos de la Fase 1 (brief, proto-persona, funcionalidades, tecnologías y arquitectura) a partir de mis decisiones: nombre del emprendimiento, rubro (reventa de gorras New Era), público (jóvenes de 18 a 30 años que se informan por Instagram y Pinterest desde el celular) e identidad visual (rosa pastel, café y azul marino). Después revisé y ajusté los borradores.
