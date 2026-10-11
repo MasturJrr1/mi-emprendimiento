@@ -1,4 +1,4 @@
-# Brief — Piedra Viva
+# Brief — Altima.StR
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
