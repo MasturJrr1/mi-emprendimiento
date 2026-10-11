@@ -4,20 +4,20 @@
 
 ## El emprendimiento
 
-Piedra Viva es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
-
+Altima.str es una tienda de gorras enfocada en la marca New Era y en la cultura streetwear. El emprendimiento es actualmente ficticio, pero está proyectado para convertirse en un negocio real en Chile. Su catálogo se especializa en gorras de colección, modelos clásicos, ediciones especiales y colaboraciones, dirigidas a personas que buscan complementar su estilo con accesorios urbanos y auténticos. En su etapa inicial, la marca proyecta vender principalmente a través de redes sociales y consiguiente a esto poder crear una landing page
 ## Propuesta de valor
 
-Ayudamos a dueños de casa, arquitectos y constructores que buscan revestimientos duraderos a concretar sus proyectos sin complicaciones gracias a la venta directa de productos Budnik junto a un servicio llave en mano de instalación profesional y pulido efecto espejo para baldosas de interior.
+Ayudamos a los amantes del streetwear y a los coleccionistas de gorras a encontrar modelos New Era que representen su estilo personal, mediante una selección enfocada en diseños clásicos, ediciones especiales y colaboraciones, facilitando el descubrimiento de modelos que se diferencian de las opciones más comunes del mercado.
+
+Con altima.str busca diferenciarse por la selección de su catálogo, la presentación de cada modelo y una experiencia de compra clara, donde los clientes puedan conocer los diseños disponibles y encontrar una gorra que encaje con su identidad.
 
 ## Objetivo del sitio
 
-- **Principal:** Recibir solicitudes de cotización y proyectos para la venta de productos junto con el servicio de instalación/pulido a través de WhatsApp o formulario de contacto.
-- **Secundario:** Posicionar la marca generando confianza al mostrar un catálogo de productos con un portafolio visual de trabajos e instalaciones ya realizadas.
-
+- **Principal:** vender gorras New Era online, mostrando el catálogo de manera organizada y facilitando que los clientes encuentren y compren el modelo que buscan.
+- **Secundario:** construir reconocimiento de marca dentro de la comunidad streetwear y generar confianza en los compradores mediante información clara sobre los productos, sus características y su disponibilidad.
 ## Referentes
 
 | Marca | Qué hace bien |
 |---|---|
-| Budnik | Muestra fichas técnicas muy detalladas, formatos de productos y la resistencia específica según el tipo de uso (tráfico alto, interior o exterior). |
-| Baldosas Córdoba | Presenta de forma clara sus proyectos terminados e inspira confianza al mostrar el acabado final del trabajo de instalación y pulido tradicional. |
+| LaOtraOpcion | tiene una alta variedad en su catalogo lo cual puede atraer distintos tipos de clientes y poder diversificar su publico. |
+| ArtMob  | tienda con venta de gorras pero tambien con alto catalogo con diferentes accesorios, ropa, etc. Con esto se convierte en un referente al poder crear un ecosistema en tu tienda online pudiendo hacer ventas cruzadas y poder generar mas ventas a largo plazo.
