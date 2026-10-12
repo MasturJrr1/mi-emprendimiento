@@ -1,10 +1,14 @@
+# Moodboard — altima.str
+
+> Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
+
 **Tablero en Whimsical:** https://whimsical.com/V8fGTdawPgURYhZdcr7oYG
 
-
+![Moodboard](img/moodboard.png)
 
 ## Palabras clave
 
-Coleccionable · Urbano · Auténtico · Edición limitada · Curaduría · Comunidad · Nostalgia 90s · Soft  · Clean fit · Actitud · Concreto · 
+Coleccionable · Urbano · Auténtico · Edición limitada · Curaduría · Comunidad · Nostalgia 90s · Soft + Tough · Clean fit · Actitud · Concreto · Hecho en Chile
 
 ## Qué sensación buscamos
 
