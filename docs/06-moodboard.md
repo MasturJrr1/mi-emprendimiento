@@ -1,13 +1,14 @@
-# Moodboard — [Nombre del emprendimiento]
+**Tablero en Whimsical:** https://whimsical.com/V8fGTdawPgURYhZdcr7oYG
 
-> Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
-
-**Tablero en Whimsical:** [pega aquí el link]
-
-<!-- Captura: guárdala en docs/img/ y enlázala así: ![Moodboard](img/moodboard.png) -->
+![Moodboard]()
 
 ## Palabras clave
 
+Coleccionable · Urbano · Auténtico · Edición limitada · Curaduría · Comunidad · Nostalgia 90s · Soft  · Clean fit · Actitud · Concreto · 
+
 ## Qué sensación buscamos
 
-<!-- 3 a 5 líneas: qué sensación y por qué conecta con tu proto-persona. -->
+Queremos que altima.str se sienta como la tienda del amigo que sabe de gorras: cercana, curada y con calle.
+El café oscuro y el azul marino aportan peso, nostalgia y aire de pieza de colección; el rosa pastel rompe lo rudo y le da un sello propio, fácil de reconocer en el feed.
+Conecta con Carlos (25) porque él no compra una gorra solo para vestirse, sino para mostrar quién es.
+Necesita sentir que cada pieza fue elegida, es original y no la tiene todo el mundo.
