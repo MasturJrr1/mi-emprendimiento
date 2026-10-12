@@ -1,6 +1,6 @@
 **Tablero en Whimsical:** https://whimsical.com/V8fGTdawPgURYhZdcr7oYG
 
-![Moodboard]()
+
 
 ## Palabras clave
 
