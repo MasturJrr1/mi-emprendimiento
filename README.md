@@ -1,6 +1,6 @@
-# [Nombre del emprendimiento] — Sitio web
+# altima.str — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
+Tienda online de gorras New Era originales: fitted de colección, ediciones especiales y modelos casuales para la comunidad streetwear en Chile.
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
