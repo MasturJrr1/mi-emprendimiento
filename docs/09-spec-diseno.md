@@ -7,7 +7,7 @@ La spec de diseño tiene dos partes:
 1. **[`DESIGN.md`](../DESIGN.md)** (en la raíz): tu design system, en el formato que Stitch importa.
 2. **Este documento:** tus pantallas, escritas como prompts listos para pegar en Stitch.
 
-**Wireframes en Whimsical:** https://whimsical.com/LCQkqqvPpibwsCmhdiLGbn
+**Wireframes en Whimsical:** https://whimsical.com/ignacio-galindo/wireframes-altima-str-LCQkqqvPpibwsCmhdiLGbn
 
 > Guía de wireframes: [Wireframes](../evaluacion/guias/fase-2-specs/04-wireframes.md)
 
