@@ -2,7 +2,7 @@
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** https://whimsical.com/EhNforrQrDZCBYRPD7Lc33
+**Tablero en Whimsical:** https://whimsical.com/ignacio-galindo/componentes-altima-str-EhNforrQrDZCBYRPD7Lc33
 
 ![Componentes calcados](img/componentes.png)
 
