@@ -1,16 +1,16 @@
-# Proto-persona — [Altima.StR]
+# Proto-persona — altima.str
 
 > Guía: [Proto-persona](../evaluacion/guias/fase-1-requerimientos/02-proto-persona.md)
 
 ## Proto-persona principal
 
-<!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/nombre.png) -->
+![Avatar de Carlos](img/avatar-carlos.jpg)
 
 
 
 Carlos, 25 años. Estudiante y trabajador part-time, interesado en la moda urbana, el streetwear y la cultura de las gorras. Utiliza redes sociales como Instagram y TikTok para descubrir nuevos estilos, marcas y modelos que pueda incorporar a sus outfits.
 
-"No quiero ser uno mas. Busco una gorra que represente mi estilo y que tenga algo especial."
+"No quiero ser uno más. Busco una gorra que represente mi estilo y que tenga algo especial."
 ### Comportamientos
 Descubre nuevos modelos de gorras y tendencias streetwear principalmente a través de Instagram, TikTok y comunidades de moda urbana.
 
@@ -20,7 +20,9 @@ Compara precios, diseños y disponibilidad entre distintas tiendas y vendedores 
 
 Se interesa por las gorras New Era de equipos deportivos, las ediciones especiales y las colaboraciones.
 
-Se inspiro en Jay Z, Kendrick Lamar y snopp dogg en su amor por las gorras
+Se inspiró en Jay-Z, Kendrick Lamar y Snoop Dogg en su amor por las gorras.
+
+Navega y compra desde su celular, sobre todo en la noche, después del trabajo o la universidad.
 ### Necesidades
 
 Encontrar gorras New Era que se adapten a su estilo personal y que no sean fáciles de encontrar en las tiendas convencionales.
