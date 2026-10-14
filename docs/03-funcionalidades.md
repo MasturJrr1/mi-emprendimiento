@@ -13,9 +13,9 @@
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
 |---|---|---|---|---|
 | Carlos, 25 años | Recibir novedades y ofertas de la tienda | El usuario debe poder dejar sus datos para recibir novedades, lanzamientos y descuentos de altima.str. | Base (landing) | Deseable |
-| Carlos, 25 años | Descubrir tendencias y conocer más sobre las gorras | El usuario debe poder navegar los artículos por categoría, como tendencias streetwear, colecciones y novedades de New Era. | Base (blog) | Futuro |
-| Carlos, 25 años | Compartir opiniones y experiencias | El usuario debe poder comentar un artículo y compartir su opinión sobre el contenido publicado. | Base (blog) | Futuro |
-| Carlos, 25 años | Recomendar contenido a sus amigos | El usuario debe poder compartir un artículo en redes sociales o mediante un enlace. | Base (blog) | Futuro |
+| Carlos, 25 años | Descubrir tendencias y conocer más sobre las gorras | El usuario debe poder navegar los artículos por categoría, como tendencias streetwear, colecciones y novedades de New Era. | Base (blog) | Deseable |
+| Carlos, 25 años | Compartir opiniones y experiencias | El usuario debe poder comentar un artículo y compartir su opinión sobre el contenido publicado. | Base (blog) | Deseable |
+| Carlos, 25 años | Recomendar contenido a sus amigos | El usuario debe poder compartir un artículo en redes sociales o mediante un enlace. | Base (blog) | Deseable |
 | Carlos, 25 años | Encontrar rápidamente un modelo específico | El usuario debe poder buscar productos por nombre, equipo deportivo, colección o modelo. | Base (tienda) | Imprescindible |
 | Carlos, 25 años | Comparar modelos según sus preferencias | El usuario debe poder filtrar productos por precio, equipo, estilo, tipo de gorra y disponibilidad. | Base (tienda) | Imprescindible |
 | Carlos, 25 años | Revisar un producto y realizar una compra | El usuario debe poder ver el detalle de un producto, elegir las opciones disponibles y agregarlo al carrito. | Base (tienda) | Imprescindible |

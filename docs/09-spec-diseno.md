@@ -90,8 +90,9 @@ Componentes, de arriba hacia abajo:
 3. Texto del artículo en body-md, con un h2 "El look: hoodie oversize, cargo y sneakers retro".
 4. Bloque "La gorra de este look": foto, "Yankees 59FIFTY · Undervisor verde", $39.990 y button-primary "Ver gorra".
 5. "Comparte este artículo" con íconos de copiar link e Instagram.
-6. h2 "Sigue leyendo" y 2 card-article.
-7. footer.
+6. h2 "Comentarios (2)": input-field "Escribe tu comentario", button-primary "Comentar" y 2 comentarios de ejemplo con nombre, fecha y texto (Matías: "La combiné con un cargo verde y quedó brutal"; Javi: "¿La 7 3/8 viene ajustada o normal?").
+7. h2 "Sigue leyendo" y 2 card-article.
+8. footer.
 ```
 
 ### Versión mobile (para cada pantalla)

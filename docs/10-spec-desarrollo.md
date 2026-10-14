@@ -134,6 +134,7 @@ Todas las páginas tienen la misma base: `<header>` con la navbar, un `<main>` y
   <article> h1, fecha, imagen y texto del artículo
     <section> "La gorra de este look" (producto relacionado)
     <section> compartir
+    <section> comentarios (formulario + lista)
   </article>
   <section> "Sigue leyendo"
 </main>
@@ -205,6 +206,7 @@ Todo va en un solo archivo, `css/styles.css`. Las fuentes (Alfa Slab One e Inter
 - [ ] La ficha de producto muestra fotos, precio, selector de talla, stock, sello "Original verificada", costo de envío y botón "Agregar al carrito".
 - [ ] El carrito muestra subtotal, envío y total antes de comprar.
 - [ ] El artículo muestra la gorra del look con un botón que lleva a la ficha de producto.
+- [ ] El blog tiene chips de categoría y el artículo tiene botones para compartir y una sección de comentarios (formulario visual, sin guardar comentarios en esta versión).
 
 **Diseño**
 - [ ] Todos los colores del CSS salen de las variables de `:root`, con los valores de `DESIGN.md`.
