@@ -2,7 +2,7 @@
 
 > Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
 
-**Tablero en Whimsical:** https://whimsical.com/V8fGTdawPgURYhZdcr7oYG
+**Tablero en Whimsical:** https://whimsical.com/ignacio-galindo/moodboard-altima-str-V8fGTdawPgURYhZdcr7oYG
 
 ![Moodboard](img/moodboard.png)
 
