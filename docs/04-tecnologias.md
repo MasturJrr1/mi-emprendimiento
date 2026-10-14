@@ -1,4 +1,4 @@
-# Tecnologías del proyecto — [Altima.StR]
+# Tecnologías del proyecto — altima.str
 
 > Guía: [Tecnologías del proyecto](../evaluacion/guias/fase-1-requerimientos/04-tecnologias.md)
 

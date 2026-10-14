@@ -1,4 +1,4 @@
-# Arquitectura de la información — [Altima.StR]
+# Arquitectura de la información — altima.str
 
 > Guía: [Arquitectura de la información](../evaluacion/guias/fase-1-requerimientos/05-arquitectura.md)
 

@@ -1,10 +1,11 @@
-# Brief — Altima.StR
+# Brief — altima.str
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Altima.str es una tienda de gorras enfocada en la marca New Era y en la cultura streetwear. El emprendimiento es actualmente ficticio, pero está proyectado para convertirse en un negocio real en Chile. Su catálogo se especializa en gorras de colección, modelos clásicos, ediciones especiales y colaboraciones, dirigidas a personas que buscan complementar su estilo con accesorios urbanos y auténticos. En su etapa inicial, la marca proyecta vender principalmente a través de redes sociales y consiguiente a esto poder crear una landing page
+Altima.str es una tienda de gorras enfocada en la marca New Era y en la cultura streetwear. El emprendimiento es actualmente ficticio, pero está proyectado para convertirse en un negocio real en Chile. Su catálogo se especializa en gorras de colección, modelos clásicos, ediciones especiales y colaboraciones, dirigidas a personas que buscan complementar su estilo con accesorios urbanos y auténticos. En su etapa inicial, la marca proyecta vender principalmente a través de redes sociales y, a partir de eso, crear su propio sitio web.
+
 ## Propuesta de valor
 
 Ayudamos a los amantes del streetwear y a los coleccionistas de gorras a encontrar modelos New Era que representen su estilo personal, mediante una selección enfocada en diseños clásicos, ediciones especiales y colaboraciones, facilitando el descubrimiento de modelos que se diferencian de las opciones más comunes del mercado.
