@@ -100,9 +100,13 @@ Componentes, de arriba hacia abajo:
 ```text
 Genera la versión mobile (375px de ancho) de esta pantalla siguiendo la
 sección Layout del design system: una sola columna con márgenes de 16px;
-navbar con logo, ícono de búsqueda, carrito y menú hamburguesa; h1 de 36px;
-grillas de productos en 2 columnas y de artículos en 1; filtros dentro de
-un botón "Filtrar" que abre un panel; en la ficha de producto, galería
-arriba y botón "Agregar al carrito" fijo abajo; en el carrito, el
-cart-summary va bajo la lista de productos.
+navbar igual en todas las pantallas: logo ALTIMA.STR a la izquierda y, a la
+derecha, ícono de búsqueda, carrito con badge y menú hamburguesa (sin ícono
+de usuario); h1 de 36px; grillas de productos en 2 columnas y de artículos
+en 1; filtros dentro de un botón "Filtrar" y el panel empieza cerrado; en
+la ficha de producto, galería arriba y botón "Agregar al carrito" fijo en
+la parte inferior de la pantalla (sticky bottom); en el carrito, el
+cart-summary va bajo la lista de productos. Footer igual al de las demás
+pantallas mobile. Mantén exactamente los mismos textos, precios y
+condiciones de la versión desktop: no inventes textos nuevos.
 ```
