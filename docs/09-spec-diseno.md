@@ -49,7 +49,7 @@ Objetivo: que Carlos vea la gorra en detalle, confirme que es original, elija su
 Componentes, de arriba hacia abajo:
 1. navbar.
 2. Migas "Tienda / MLB / Yankees".
-3. Dos columnas. Izquierda: foto grande y 4 miniaturas (frente, side patch, undervisor, sticker). Derecha: h1 "New York Yankees 59FIFTY · Undervisor verde", precio "$39.990", selector de talla (7 1/4, 7 3/8, 7 1/2), link "Guía de tallas", tag-stock "Quedan 2 en 7 3/8", button-primary "Agregar al carrito" (disabled hasta elegir talla), badge-authentic "Original verificada", texto "Nueva con sticker · Envío desde $3.990" y pestañas Detalles, Autenticidad, Envío y cambios.
+3. Dos columnas. Izquierda: foto grande de la gorra de frente (la misma de la miniatura "frente"; el contenedor nunca queda vacío) y 4 miniaturas (frente, side patch, undervisor, sticker). Derecha: h1 "New York Yankees 59FIFTY · Undervisor verde", precio "$39.990" en headline-md, visible justo bajo el h1, selector de talla (7 1/4, 7 3/8, 7 1/2), link "Guía de tallas", tag-stock "Quedan 2 en 7 3/8", button-primary "Agregar al carrito" en estado disabled y ninguna talla preseleccionada, badge-authentic "Original verificada", texto "Nueva con sticker · Envío desde $3.990" y pestañas Detalles, Autenticidad, Envío y cambios.
 4. h2 "También te puede gustar" y fila de 4 card-product.
 5. footer.
 ```
