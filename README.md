@@ -31,7 +31,7 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Prototipo
 
-[Aquí va el link de tu proyecto de Stitch en la Fase 3]
+[Altima Streetwear E-Commerce Store en Stitch](https://stitch.google.com/projects/15004287554006970478) · capturas y QA en [docs/11-qa.md](docs/11-qa.md)
 
 ## Uso de IA
 
